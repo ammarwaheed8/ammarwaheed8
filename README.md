@@ -1,105 +1,113 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+MERN+Stack;Building+Modern+Web+Apps" />
 </p>
-<h1 align="center">Hi 👋, I'm Ammar Waheed</h1>
-<h3 align="center">Frontend Developer | React.js Specialist | MERN Stack Developer</h3>
+<!-- PROFILE HEADER -->
+
+<h1 align="center">🚀 Ammar Waheed</h1>
+<h3 align="center">Frontend Developer • React.js • MERN Stack</h3>
 
 <p align="center">
-🚀 Built 15+ Real-World Projects | 💼 Fiverr Freelancer | 🌍 Open to UAE/Gulf Roles  
+💻 Building fast, modern & user-focused web apps  
+🌍 Open to UAE / Gulf Opportunities • Immediate Relocation  
 </p>
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 I’m currently working as a **Freelance Frontend & MERN Stack Developer**
-- 💡 I build **fast, responsive & user-focused web applications**
-- ⚡ Strong focus on **clean code, performance & UI/UX**
-- 🤝 Experienced working with **clients + teams**
-- 🌍 Open for **international opportunities (UAE/Gulf)**
-
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Frontend
-- React.js
-- JavaScript (ES6+)
-- HTML5, CSS3
-- Tailwind CSS
-
-### ⚙️ Backend
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-
-### 🧰 Tools
-- Git & GitHub
-- VS Code
-- Figma
-- AI-assisted development tools
-
----
-
-## 📌 Featured Projects
-
-🚀 Here are some of my best works:
-
-- 🏨 **Hotel Booking System**  
-  → Admin dashboard + authentication + dynamic data  
-
-- 📊 **Admin Dashboard UI**  
-  → Clean UI + responsive + analytics layout  
-
-- 🌐 **Portfolio Website**  
-  → Modern design + smooth UX  
-
-👉 More projects: **Check my repositories below 👇**
-
----
-
-## 💼 Experience
-
-### 🧑‍💻 Freelance Developer (Fiverr)
-- Delivered **15+ projects** to international clients
-- Built responsive apps using **React & MERN**
-- Client communication + requirement handling
-
-### 💻 Frontend Intern – Ezitech
-- Built UI using **React + JS**
-- Worked with real team + Agile workflow
-
-### ⚙️ MERN Stack Intern – PASCO
-- Built full-stack apps
-- Developed APIs + CRUD systems
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: ammarwaheed8@yahoo.com  
-- 🌐 Portfolio: https://ammarwaheed.vercel.app/  
-- 💼 LinkedIn: https://www.linkedin.com/in/ammarwaheed8  
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <a href="https://ammarwaheed.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ammarwaheed8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ammarwaheed8@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## ⚡ What Makes Me Different?
+## 🧠 About Me
 
-✔️ Real client experience (not just tutorials)  
-✔️ Strong UI/UX sense  
-✔️ Full MERN understanding  
-✔️ Fast learner + AI-powered workflow  
+```diff
++ 15+ Real-World Projects Delivered
++ React.js Specialist with MERN Experience
++ Strong UI/UX + Performance Optimization Focus
++ Real Client Work via Fiverr
+```
+
+I build web experiences that users don’t just see — they **feel**.
+From idea → design → production, I focus on **clean code, speed, and usability**.
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+## ⚒️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,mongodb,git,github,vscode" />
+
+</p>
+
+---
+
+## 🚀 Featured Work
+
+### 🏨 Hotel Booking System
+
+✔ Admin Dashboard
+✔ Authentication System
+✔ Dynamic Data Handling
+
+### 📊 Admin Dashboard UI
+
+✔ Clean & Modern Interface
+✔ Fully Responsive
+✔ Analytics Layout
+
+### 🌐 Portfolio Website
+
+✔ Smooth UI/UX
+✔ Fast Performance
+
+👉 Explore more in my repositories 👇
+
+---
+
+## 💼 Experience Snapshot
+
+💻 **Freelance Developer (Fiverr)**
+→ Delivered 15+ projects globally
+
+🏢 **Frontend Intern – Ezitech**
+→ React-based UI development
+
+⚙️ **MERN Stack Intern – PASCO**
+→ Full-stack apps + APIs
+
+---
+
+## 🎯 What Sets Me Apart
+
+✨ Not just tutorials — **real client experience**
+✨ Strong eye for **design & usability**
+✨ Understand **full system (Frontend + Backend)**
+✨ Fast execution using modern + AI tools
+
+---
+
+## 📈 Instead of Stats… Real Value
+
+```yaml
+Projects Built: 15+
+Tech Focus: React + MERN
+Experience: Freelance + Internships
+Availability: Open to Work (Immediate)
+Location: Pakistan → Ready to Relocate
+```
+
+---
+
+## 🤝 Let’s Connect
+
+📧 [ammarwaheed8@yahoo.com](mailto:ammarwaheed8@yahoo.com)
+🌐 https://ammarwaheed.vercel.app
+💼 https://www.linkedin.com/in/ammarwaheed8
+
+---
+
+<p align="center">
+🔥 “Code is not just written — it’s crafted.”
+</p>
