@@ -3,9 +3,6 @@
 <!-- ANIMATED BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00F7FF,100:7B2FFF&height=220&section=header&text=Ammar%20Waheed&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20MERN%20Stack&descAlignY=58&descSize=20&animation=fadeIn" />
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.comfont=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&width=650&lines=+Building+Modern+Web+Experiences;⚡+React+%7C+MERN+%7C+Tailwind+CSS;🎯+15%2B+Real-World+Projects+Delivered;🌍+Available+for+UAE+%2F+Gulf+Opportunities;+Clean+Code+%7C+Speed+%7C+Usability" alt="Typing SVG" />
-
 <br/>
 
 <!-- BADGES ROW -->
