@@ -15,7 +15,7 @@
 <a href="mailto:ammarwaheed8@yahoo.com">
   <img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A"/>
 </a>
-<a href="https://www.fiverr.com/">
+<a href="https://www.fiverr.com/ammar_waheed8/">
   <img src="https://img.shields.io/badge/Fiverr-Order_Now-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=0A0A0A"/>
 </a>
 
